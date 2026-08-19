@@ -1,0 +1,10 @@
+### Requirment From the Application
+Current and past wireless networks have relied primarily on feedback-based communications, where several mechanisms, ==e.g., frequency division duplex (FDD) and time division duplexing (TDD),== are adopted for pilot transmission and CSI feedback.
+With the advent of massive MIMO systems and large-scale connectivity, such mechanisms fail to meet the throughput requirement imposed by the available resources in wireless networks.
+In this regard, multi-agent systems constitute a promising solution for the feedback problem, and for alleviating the pilot transmission overhead, by allowing multiple agents to interact with the environment and reach a consensus in performing a particular task (e.g., resource allocation, trajectory design, etc) without consuming the spectrum resources for feedback.
+### Solution
+In this regard, multi-agent systems constitute a promising solution for the feedback problem, and for alleviating the pilot transmission overhead, by allowing multiple agents to interact with the environment and reach a consensus in performing a particular task (e.g., resource allocation, trajectory design, etc) without consuming the spectrum resources for feedback. 
+### Emergent Communications in Multi-Agent Learning Systems
+Wireless communication is a key enabler for information sharing between machine learning agents working together to complete a complex task.
+Agents are able to learn both policies and communication protocols to compensate for the partially observable environments in order to perform a complex task
+There are two main areas of research around this problem. One direction investigates decoding the emergent protocol in order to understand its generality and similarity to human language, while the second direction investigates employing powerful AI tools in order to learn an efficient communication protocol able to perform a collaborative complex task.
